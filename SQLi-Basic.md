@@ -8,6 +8,11 @@
 
 # Mục Lục
 
+[1. Định Nghĩa và Cách Phát Hiện](#1.-dinh-nghia-va-cach-phat-hien)
+
+[2. Lỗi SQL Injection trên các hàm SELECT, INSERT, UPDATE, DELETE](#2.-loi-sql-injection-tren-cac-han-select,-insert,-update,-delete)
+
+[Khuyến Nghị Khắc Phục](#khuyen-nghi-khac-phuc)
 
 # 1. Định Nghĩa và Cách Phát Hiện
 
